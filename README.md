@@ -1,13 +1,40 @@
-# Week1
+# Final-Project-Submission
 
-Week 1 Power BI Report – Agricultural Productivity Analysis
+ Project Description – Agricultural Productivity Analysis Using Power BI
+This project focuses on analyzing agricultural productivity across Indian states using Power BI. Over three weeks, multiple aspects of crop production data were explored, visualized, and analyzed to identify trends, patterns, and regional variations.
 
-This Power BI report provides an initial analysis of agricultural productivity across Indian states using the provided dataset. The visualizations included are:
+🔹 Week 1: Initial Data Exploration & Basic Visualization
+Imported and cleaned the dataset containing crop-wise, state-wise, and year-wise agricultural data
 
-Bar Chart: Displays the Top 5 crops based on total production.
+Created key visuals:
 
-Line Chart: Shows the year-wise trend of agricultural production from 1997 to 2020.
+Bar chart showing Top 5 crops by production
 
-Line Chart: Illustrates state-wise annual rainfall, offering insight into regional climatic impact on agriculture.
+Line chart for year-wise production trend
 
-The dataset includes key fields like Crop, State, Year, Area, Production, Yield, Rainfall, Fertilizer, and Pesticide usage.
+Rainfall analysis by state
+
+Enabled basic filtering using slicers for Crop, Year, and State
+
+🔹 Week 2: Advanced Visualization & Interactivity
+Added KPI cards for average rainfall, fertilizer use, pesticide use, and total production
+
+Built:
+
+Bar chart for average crop production
+
+Pie chart for state-wise production share
+
+Combo chart to observe fertilizer vs. production trends
+
+Improved dashboard layout and added interactive slicers
+
+🔹 Week 3: Yield & Trend Analysis
+Created a Filled Map to visualize average crop yield by state
+
+Developed a line chart to compare year-wise production trends across crops
+
+Enabled filtering by crop, year, and state using slicers
+
+ Summary:
+The project demonstrates the ability to convert raw agricultural data into meaningful insights using Power BI. It highlights production patterns, crop-wise trends, and regional yield variations with interactive, user-friendly dashboards.
